@@ -1,0 +1,50 @@
+# Task Management Application
+
+## Overview
+
+This project is a simple Task Management Application developed using React.js, Node.js, and Express.js. It allows users to add and manage tasks through a user-friendly interface.
+
+## Features
+
+* Create Tasks
+* View Tasks
+* Simple and Responsive Interface
+* Backend API using Express.js
+
+## Technologies Used
+
+* React.js
+* Node.js
+* Express.js
+* JavaScript
+* VS Code
+
+## Project Structure
+
+task-manager/
+├── backend/
+│   └── server.js
+├── frontend/
+│   └── App.js
+└── README.md
+
+## How to Run
+
+### Backend
+
+1. Open terminal
+2. Navigate to backend folder
+3. Run:
+   node server.js
+
+### Frontend
+
+1. Navigate to React project folder
+2. Run:
+   npm start
+
+## Output
+
+* Backend runs on: http://localhost:5000
+* Frontend runs on: http://localhost:3000
+
